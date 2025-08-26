@@ -35,13 +35,13 @@ retail-business-analysis/
 ---
 
 ## 📑 Deliverables  
-- ✅ SQL script for retail data analysis → (SQL/Retail_Analysis.sql)
-- ✅ Python file → (Python/Analysis.ipynb)
-- ✅ Tableau dashboards → (Tableau/Retail_Dashboard.twbx)
-- ✅ Final reports in PDF → (Reports/Retail_Business_Performance_Report.pdf) 
+- [Tableau Dashboard](tableau/Retail_Dashboard.twbx)  
+- [SQL Queries](sql/retail_analysis.sql)  
+- [Python Scripts](python/analysis.ipynb)  
+- [PDF Reports](reports/Retail_Business_Performance_Report.pdf) 
 
 ---
 
 ## 📸 Sample Dashboard  
--  Screenshot of Dashboard (Tableau/Dashboard.png)
+-  [Dashboard_Screenshot](Tableau/Dashboard.png)
 
