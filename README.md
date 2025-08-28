@@ -35,10 +35,10 @@ retail-business-analysis/
 ---
 
 ## 📑 Deliverables  
-- [Tableau Dashboard](tableau/Retail_Dashboard.twbx)  
-- [SQL Queries](sql/retail_analysis.sql)  
-- [Python Scripts](python/analysis.ipynb)  
-- [PDF Reports](reports/Retail_Business_Performance_Report.pdf) 
+- [Tableau Dashboard](Tableau/Retail_Dashboard.twbx)  
+- [SQL Queries](SQL/Retail_Analysis.sql)  
+- [Python Scripts](Python/Analysis.ipynb)  
+- [PDF Reports](Reports/Retail_Business_Performance_Report.pdf) 
 
 ---
 
